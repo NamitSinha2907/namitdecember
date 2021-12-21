@@ -13,8 +13,6 @@ BOOTSTRAP
 Backend : Razorpay
 
 Framework: Bootstrap
-
-Website : https://missionvission.000webhostapp.com/
 ![image](https://user-images.githubusercontent.com/95482586/146923012-2775fc1f-057c-4684-ad1d-7a3a9f3c0375.png)
 ![image](https://user-images.githubusercontent.com/95482586/146923089-40d490bd-21a3-4305-9a79-b79b334b0409.png)
 ![image](https://user-images.githubusercontent.com/95482586/146923142-fd78ad62-d881-4182-803f-f1bf091d57b6.png)
